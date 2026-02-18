@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lala-website-wheat.vercel.app/sitemap.xml
